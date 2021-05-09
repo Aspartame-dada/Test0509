@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/ic_baseline_find_in_page_24"
+        android:title="发现" />
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/ic_baseline_audiotrack_24"
+        android:title="我的" />
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/ic_baseline_textsms_24"
+        android:title="消息" />
+</menu>
